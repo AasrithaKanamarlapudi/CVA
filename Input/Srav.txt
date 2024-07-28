@@ -1,0 +1,63 @@
+Hello
+==> Sravani
+
+==> ADDRESS
+
+Gandhi bazar,
+kadapa-531228
+sravani@gmail.com
+
+==> SKILLS
+
+=> Java                   
+=> C                                       
+=> Html                   
+=> Python                
+=> Data structures         
+
+==> EXPERIENCE
+
+➨ 2 years working experience on Application Developer
+
+ ➨ 03 2022- PRESENT
+GIH software solutions, Hyderabad- Application Developer
+
+=> Swing programming for Application Developer
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2021- 01 2022
+Edtex, Banglore- Software Tester
+
+=> Swing programming for Application Developer
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+
+==> EDUCATION
+
+Degree  Institution                         Score
+B.tech CSE    Adithya college- Kakinada     90.0 % [2017 - 2021]
+Intermediate Sri Chaitanya Junior College- Kakinada 92.0 % [2015 - 2017]
+SSC          SMNZPPH School                      96.0 % [2014 - 2015]
+
+==> AWARDS
+
+=> 1st prize in technical quiz
+=> Attending in iot workshop
+=> Participating in project expo
+
+==> LANGUAGES KNOWN
+
+=> ENGLISH
+=> TELUGU
+
+==> PROJECTS 
+
+=> Invisible Cloak - based on Python                                        
+                                    It is the mixture of science,fantasy and the collective 
+                                    information using OpenCV library of Python
+=> ATM Machine -based on java swing      
+                                    it is simple and impressive interface for making  
+                                    transactions very easy manner, and also give peaceful feeling by  using this.  
+   

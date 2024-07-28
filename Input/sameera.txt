@@ -1,0 +1,51 @@
+Hello
+==> Sameera
+
+==> ADDRESS
+
+Gandhi bazar,
+Guntur-533228
+sameera@gmail.com
+
+==> SKILLS
+
+=> Java                 
+=> C                                      
+=> Html                   
+=> Python                 
+=> Data structures        
+
+==> EXPERIENCE
+
+➨ 1 year working experience on Software Tester
+
+ ➨ 08 2022- PRESENT
+techvedika software solutions, Hyderabad- Software Tester
+
+=> Swing programming for Software Tester
+=> Minimize the application for better results
+ 
+
+==> EDUCATION
+
+Degree  Institution                         Score
+B.tech CSE    st.Anns womens college- chirala    92.0 % [2018 - 2022]
+Intermediate Narayana Junior College- Guntur 92.0 % [2016 - 2018]
+SSC          Zphs School                      96.0 % [2015 - 2016]
+
+==> AWARDS
+
+=> 1st prize in technical quiz
+=> Attending in iot workshop
+=> Participating in project expo
+
+==> LANGUAGES KNOWN
+
+=> ENGLISH
+=> TELUGU
+
+==> PROJECTS 
+
+=> Invisible Cloak - based on Python                                        
+                                    It is the mixture of science,fantasy and the collective 
+                                    information using OpenCV library of Python

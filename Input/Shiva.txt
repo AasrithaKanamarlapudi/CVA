@@ -1,0 +1,69 @@
+Hello
+==> Shiva
+
+==> ADDRESS
+
+Kapula bazar,
+Tenali-533228
+Sravani@gmail.com
+
+==> SKILLS
+
+=> Java                  
+=> C                                         
+=> Html                  
+=> Python                
+=> Data structures       3 
+
+==> EXPERIENCE
+
+➨ 3 years working experience on Software Tester
+
+ ➨ 08 2022- PRESENT
+GIH software solutions, Hyderabad- Software Tester
+
+=> Swing programming for Software Tester
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2021- 01 2022
+Edterx, Banglore- Software Tester
+
+=> Swing programming for Software Tester
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2020- 01 2021
+TCS  pvt ltd, Chennai- Software Tester
+
+=> Swing programming for Software Tester
+=> Implementation of graphical interface
+=> Minimize the application for better results 
+
+==> EDUCATION
+
+Degree  Institution                         Score
+B.tech CSE    Adithya college- Kakinada     90.0 % [2016 - 2020]
+Intermediate Sri Chaitanya Junior College- Kakinada 92.0 % [2014 - 2016]
+SSC          SMNZPPH School                      96.0 % [2013 - 2014]
+
+==> AWARDS
+
+=> 1st prize in technical quiz
+=> Attending in iot workshop
+=> Participating in project expo
+
+==> LANGUAGES KNOWN
+
+=> ENGLISH
+=> TELUGU
+
+==> PROJECTS 
+
+=> Invisible Cloak - based on Python                                        
+                                    It is the mixture of science,fantasy and the collective 
+                                    information using OpenCV library of Python
+=> ATM Machine -based on java swing      
+                                    it is simple and impressive interface for making  
+                                    transactions very easy manner, and also give peaceful feeling by  using this.  
+   

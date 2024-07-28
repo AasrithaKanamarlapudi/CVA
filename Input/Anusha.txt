@@ -1,0 +1,71 @@
+Hello
+==>Bhaskar
+
+==> ADDRESS
+
+Gandhi Nagar, 
+Vizag-502355
+bhaskar@gmail.com
+
+==> SKILLS
+
+=> ​Java                   
+=> C                      
+=> C++                    
+=> Html                   
+=> Python                  
+
+==> EXPERIENCE
+
+➨ 3 years working experience on Application Developer
+
+ ➨ 08 2022- PRESENT
+GIH software solutions, Hyderabad- Application Developer
+
+=> Swing programming for Application Developer
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2021- 01 2022
+Edterx, Banglore- Application Developer
+
+=> Swing programming for Application Developer
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2019- 01 2021
+TCS  pvt ltd, Chennai- Application Developer
+
+=> Swing programming for Application Developer
+=> Implementation of graphical interface
+=> Minimize the application for better results 
+
+==> EDUCATION
+
+Degree  Institution                         Score
+B.tech CSE    Amrita sai college - Vijayawada     88.0 % [2015 - 2019]
+Intermediate       Sri Chaitanya Junior College- Gudlavelleru 90.0 % [2013 - 2015]
+SSC          SMNZPPH School                      85.0 % [2012 - 2013]
+
+==> AWARDS
+
+=> 1st prize in technical quiz
+=> Well performance in debate 
+=> Attending in iot workshop
+=> Participating in project expo
+
+==> LANGUAGES KNOWN
+
+=> ENGLISH
+=> HINDHI
+=> TELUGU
+
+==> PROJECTS 
+
+=> Invisible Cloak - based on Python                                        
+                                    It is the mixture of science,fantasy and the collective 
+                                    information using OpenCV library of Python
+=> ATM Machine -based on java swing      
+                                    it is simple and impressive interface for making  
+                                    transactions very easy manner, and also give peaceful feeling by  using this.  
+  

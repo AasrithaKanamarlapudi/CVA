@@ -1,0 +1,51 @@
+Hello
+==> Nani
+
+==> ADDRESS
+
+Old Colony,
+Vijayawada-522201
+nanimoka@gmail.com
+
+==> SKILLS
+
+=> ​Java                   
+=> C                      
+
+
+
+==> EXPERIENCE
+
+➨ 1 year working experience on Software Analyst
+
+ ➨ 05 2022- PRESENT
+TCS pvt ltd, Hyderabad - System Analyst
+
+=> Java programming for System Analyst
+=> Implementation of System Analysis
+
+==> EDUCATION
+
+Degree  Institution                         Score
+B.tech CSE    Tirumala Engineering College- Guntur     60.0 % [2018 - 2022]
+Intermediate       Sri Chaitanya Junior College- Gudlavelleru 55.0 % [2016 - 2018]
+SSC          SSZPH School                      52.0 % [2015 - 2016]
+
+==> AWARDS
+
+=> 2nd prize in technical quiz
+=> Well performance in debate 
+
+
+==> LANGUAGES KNOWN
+
+=> TELUGU
+=> ENGLISH
+
+==> PROJECTS 
+
+=>Bank Management System- In this C programming Project,you will simulate a simple 
+                                                   banking system with credit and debit in bank accounts
+
+
+ 

@@ -1,0 +1,72 @@
+Hello
+==> Sweety
+
+==> ADDRESS
+
+Bhaskar Nagar 
+Amalapuram-533211
+sweety@gmail.com
+
+==> SKILLS
+
+=> ​Java                   
+=> C                     
+=> C++                    
+=> Html                   
+=> Data structures        
+
+==> EXPERIENCE
+
+➨ 3 years working experience on Application Developer
+
+ ➨ 04 2022- PRESENT
+Anu software solutions, Hyderabad- Application Developer
+
+=> Swing programming for Application Development
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 02 2021- 02 2022
+Arya software solutions, Pune- Application Developer
+
+=> Swing programming for Application Development
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2020- 01 2021
+Raji  software solutions, vijayawada- Application Developer
+
+=> Swing programming for application development
+=> Implementation of graphical interface
+=> Minimize the application for better results 
+
+==> EDUCATION
+
+Degree  Institution                         Score
+B.tech CSE    Aditya college - Amalapuram     87.0 % [2017 - 2020]
+Diploma       AANM & VVRSR  college- Gudlavelleru 93.0 % [2014 - 2017]
+SSC         PNR ZPH School                      96.0 % [2013 - 2014]
+
+==> AWARDS
+
+=> 1st prize in technical quiz
+=> Well performance in debate 
+=> Attending in iot workshop
+=> Participating in project expo
+
+==> LANGUAGES KNOWN
+
+=> ENGLISH
+=> HINDHI
+=> TELUGU
+
+==> PROJECTS 
+
+=> Chat robot -based on java swing     
+                                    
+                                    It is very simple and funny robot , its main aim is to
+                                    entertain you by tellings jokes and reply to you query’s.
+=> ATM Machine -based on java swing      
+                                    it is simple and impressive interface for making  
+                                    transactions very easy manner, and also give peaceful feeling by  using this.  
+  

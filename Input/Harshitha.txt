@@ -1,0 +1,61 @@
+Hello
+==> Harshitha
+
+==> ADDRESS
+
+rajiv street,
+kadapa, Ap 12345
+harshitha@gmail.com
+
+==> SKILLS
+
+=> ​Java                   
+=> C                      
+=> python                 
+
+
+
+==> EXPERIENCE
+
+➨ 2 years working experience on Application Developer
+ ➨ 08 2022- PRESENT
+underline it solutions, Hyderabad- Application Developer
+➨ 01 2021- 01 2022
+=> Swing programming for Application Development
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2020- 01 2021
+efftronics, vijayawada- Application Developer
+
+=> Swing programming for Application Development
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+
+==> EDUCATION
+
+Degree  Institution                         Score
+B.tech CSE    Amrita sai college - Vijayawada     50.0 % [2016 - 2020]
+Diploma       AANM & VVRSR  college- Gudlavelleru 52.0 % [2014 - 2016]
+ssc          PNR ZPH School                      52.0 % [2013 - 2014]
+
+==> AWARDS
+
+=> 1st prize in technical quiz
+=> Well performance in debate 
+
+
+==> LANGUAGES KNOWN
+
+=> HINDHI
+=> TELUGU
+
+==> PROJECTS 
+
+
+=> ATM Machine -based on java swing      
+                                    it is simple and impressive interface for making  
+                                    transactions very easy manner, and also give peaceful feeling by  using this.  
+
+ 

@@ -1,0 +1,71 @@
+Hello
+==>Maha
+
+==> ADDRESS
+Gandhi Nagar, 
+Yanam-533464
+mahamortha@gmail.com
+
+==> SKILLS
+
+=> ​Java                   
+=> Html                  
+=> C++                  
+=> Python                 
+=> Data structures        
+
+==> EXPERIENCE
+
+➨ 2 years working experience on Software Tester
+
+ ➨ 08 2022- PRESENT
+Anasol pvt ltd, Hyderabad- Software Tester
+
+=> Java programming for Software Tester
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2021- 01 2022
+ValueCreed, Chennai- Software Tester
+
+=> Python programming for Software Tester
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2020- 01 2021
+AD , Banglore- Software Tester
+
+=> Java programming for Software Tester
+=> Implementation of graphical interface
+=> Minimize the application for better results 
+
+==> EDUCATION
+
+Degree  Institution                         Score
+B.tech CSE    Stella - Vijayawada     83.0 % [2017 - 2020]
+Diploma       AANM & VVRSR  college- Gudlavelleru 89.0 % [2014 - 2017]
+SSC          PNR ZPH School                      86.0 % [2013 - 2014]
+
+==> AWARDS
+
+=> 1st prize in technical quiz
+=> Well performance in debate 
+=> Attending in iot workshop
+=> Participating in project expo
+
+==> LANGUAGES KNOWN
+
+=> ENGLISH
+=> TELUGU
+
+==> PROJECTS 
+
+=> Chat robot -based on java swing     
+                                    
+                                    It is very simple and funny robot , its main aim is to
+                                    entertain you by tellings jokes and reply to you query’s.
+
+ => Learn  easy  - based on java swing  
+                                     It is very useful application for engineering  students , it’s having 
+                                     easy and effective notes for almost all  programming subjects and 
+                                     also test our skills in test mode.    

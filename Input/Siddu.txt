@@ -1,0 +1,69 @@
+Hello
+==> Siddu
+
+==> ADDRESS
+
+Line Peta,
+Vaddicheruvu-533464
+siddumortha@gmail.com
+
+==> SKILLS
+
+=> C                      
+=> C++                    
+=> Html                   
+=> Python                 
+=> Data structures        
+
+==> EXPERIENCE
+
+➨ 2 years working experience on Application Developer
+ ➨ 08 2022- PRESENT
+GIH software solutions, Hyderabad- Application Developer
+=> Swing programming for Application Developer
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2021- 01 2022
+Edterx, Banglore- Application Developer
+
+=> Swing programming for Application Developer
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2020- 01 2021
+TCS  pvt ltd, Chennai- Application Developer
+=> Swing programming for Application Developer
+=> Implementation of graphical interface
+=> Minimize the application for better results 
+
+==> EDUCATION
+
+Degree  Institution                         Score
+B.tech CSE    Amrita sai college - Vijayawada     89.0 % [2016 - 2020]
+Intermediate       Sri Chaitanya Junior College- Gudlavelleru 90.0 % [2014 - 2016]
+SSC          SMNZPPH School                      80.0 % [2013 - 2014]
+
+==> AWARDS
+
+=> 1st prize in technical quiz
+=> Well performance in debate 
+=> Attending in iot workshop
+=> Participating in project expo
+
+==> LANGUAGES KNOWN
+
+=> ENGLISH
+=> HINDHI
+=> TELUGU
+
+==> PROJECTS 
+
+=> Invisible Cloak - based on Python                                        
+                                    It is the mixture of science,fantasy and the collective 
+                                    information using OpenCV library of Python
+=> ATM Machine -based on java swing      
+                                    it is simple and impressive interface for making  
+                                    transactions very easy manner, and also give peaceful feeling by  using this.  
+
+  

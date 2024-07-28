@@ -1,0 +1,73 @@
+Hello
+==> Kiran
+
+==> ADDRESS
+
+Gandhi Nagar, 
+Rajahmundry-533103
+kiran@gmail.com
+
+==> SKILLS
+
+=> ​Java                   
+=> C                      
+=> Html                   
+=> Python                 
+=> Data structures        
+
+==> EXPERIENCE
+
+➨ 3 years working experience on Software Analyst
+
+ ➨ 08 2022- PRESENT
+Anasol pvt ltd, Hyderabad- Software Analyst
+
+=> Java programming for Software Analyst
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2021- 01 2022
+ValueCreed, Chennai- Software Analyst
+
+=> Python programming for Software Analyst
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2019- 01 2021
+AD , Banglore- Software Analyst
+
+=> Java programming for Software Analyst
+=> Implementation of graphical interface
+=> Minimize the application for better results 
+
+==> EDUCATION
+
+Degree  Institution                         Score
+B.tech CSE    Stella - Vijayawada     80.0 % [2017 - 2020]
+Diploma       AANM & VVRSR  college- Gudlavelleru 88.0 % [2014 - 2017]
+SSC          PNR ZPH School                      79.0 % [2013 - 2014]
+
+==> AWARDS
+
+=> 1st prize in technical quiz
+=> Well performance in debate 
+=> Attending in iot workshop
+=> Participating in project expo
+
+==> LANGUAGES KNOWN
+
+=> ENGLISH
+=> HINDHI
+=> TELUGU
+
+==> PROJECTS 
+
+=> Chat robot -based on java swing     
+                                    
+                                    It is very simple and funny robot , its main aim is to
+                                    entertain you by tellings jokes and reply to you query’s.
+
+ => Learn  easy  - based on java swing  
+                                     It is very useful application for engineering  students , it’s having 
+                                     easy and effective notes for almost all  programming subjects and 
+                                     also test our skills in test mode.    

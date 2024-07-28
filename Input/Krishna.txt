@@ -1,0 +1,61 @@
+Hello
+==> Krishna
+
+==> ADDRESS
+
+Gandhi street,
+vizag-534228
+krishna@gmail.com
+
+==> SKILLS
+
+=> Java                   
+=> C                                         
+=> Html                                  
+=> Data structures        
+=>C++
+=>ML 
+
+==> EXPERIENCE
+
+➨ 2 years working experience on Software Tester
+
+ ➨ 08 2022- PRESENT
+edtex software solutions, Hyderabad- Software Tester
+
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 01 2021- 01 2022
+Edterx, Banglore- Software Tester
+
+=> Swing programming for Software Tester
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+
+==> EDUCATION
+
+Degree  Institution                         Score
+B.tech CSE    Vignan University - Guntur     88.0 % [2017 - 2021]
+Intermediate Sri Chaitanya Junior College- Vijayawada 82.0 % [2015 - 2017]
+SSC          Zphs School                      92.0 % [2014 - 2015]
+
+==> AWARDS
+
+=> Attending in iot workshop
+=> Participating in project expo
+
+==> LANGUAGES KNOWN
+
+=> ENGLISH
+=> TELUGU
+=> HINDI
+=>TAMIL
+
+==> PROJECTS 
+
+=> ATM Machine -based on java swing      
+                                    it is simple and impressive interface for making  
+                                    transactions very easy manner, and also give peaceful feeling by  using this.  
+   

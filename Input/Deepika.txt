@@ -1,0 +1,73 @@
+Hello
+==>Deepika
+
+==> ADDRESS
+
+Line peta
+muramalla,Amalapuram-533211
+deepikamortha@gmail.com
+
+==> SKILLS
+
+=> ​Java                   
+=> C                     
+=> C++                   
+=> Html                 
+=> Data structures        
+
+==> EXPERIENCE
+
+➨ 3 years working experience on Application Developer
+
+ ➨ 08 2022- PRESENT
+Anu software solutions, Hyderabad- Application Developer
+
+=> Swing programming for Application Development
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 07 2021- 07 2022
+Arya software solutions, Pune- Application Developer
+
+=> Swing programming for Application Development
+=> Implementation of graphical interface
+=> Minimize the application for better results
+
+➨ 06 2020- 06 2021
+Raji  software solutions, vijayawada- Application Developer
+
+=> Swing programming for application development
+=> Implementation of graphical interface
+=> Minimize the application for better results 
+
+==> EDUCATION
+
+Degree  Institution                         Score
+B.tech CSE    Amrita sai college - Vijayawada     78.0 % [2017 - 2020]
+Diploma       AANM & VVRSR  college- Gudlavelleru 82.0 % [2014 - 2017]
+SSC         PNR ZPH School                      76.0 % [2013 - 2014]
+
+==> AWARDS
+
+=> 1st prize in technical quiz
+=> Well performance in debate 
+=> Attending in iot workshop
+=> Participating in project expo
+
+==> LANGUAGES KNOWN
+
+=> ENGLISH
+=> HINDHI
+=> TELUGU
+
+==> PROJECTS 
+
+
+=> ATM Machine -based on java swing      
+                                    it is simple and impressive interface for making  
+                                    transactions very easy manner, and also give peaceful feeling by  using this.  
+
+ => Learn  easy  - based on java swing  
+                                     It is very useful application for engineering  students , it’s having 
+                                     easy and effective notes for almost all  programming subjects and 
+                                     also test our skills in test mode.    
